@@ -1,3 +1,15 @@
+# Physics I Evidence Portfolio
+
+**Live site:** https://essanchez-13.github.io/physics-portfolio/
+
+An interactive single-page site showing how classical mechanics shows up in real software: drone tracking, platformer jump physics in game engines, rotating space habitats, Formula 1 tire grip and haptic feedback springs. Each topic pairs a concrete use case and its governing equation with a resource I built: a data visualization, an interactive simulation, a diagram or a multimedia analysis.
+
+**Stack:** HTML · CSS (light/dark, responsive) · vanilla JavaScript (one module per topic) · Chart.js · KaTeX · GitHub Pages
+
+Course project for *Physics I (FUN-18)* at Universidad CENFOTEC, 2026. Mirrored from [essanchezs/Portafolio-Fisica](https://github.com/essanchezs/Portafolio-Fisica) with full history. The site content is in Spanish.
+
+---
+
 # Portafolio de Evidencias — Física I (FUN-18)
 
 Universidad CENFOTEC · Escuela de Fundamentos · Período 2026-C3 · Sección FCV1
